@@ -1,0 +1,9 @@
+{
+  apiKey: "AIzaSyBniKYdZ6VGuMsVYGsWyC0IPDrsLyLxXXg",
+  authDomain: "readabletapi.firebaseapp.com",
+  projectId: "readabletapi",
+  storageBucket: "readabletapi.appspot.com",
+  messagingSenderId: "409764729856",
+  appId: "1:409764729856:web:c46afc9ffbe0acf379f4e5",
+  measurementId: "G-XYFX9GBNYY"
+}
